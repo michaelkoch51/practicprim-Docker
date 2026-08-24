@@ -11,6 +11,7 @@
 docker pull hashicorp/terraform:latest
 
 
+
 ![](https://github.com/user-attachments/assets/3dcab6cd-6a44-4f92-84bd-0f7a5136f502)
 ![](https://github.com/user-attachments/assets/e8eee958-54f4-4981-895d-1ba9218ef1bc)
 ![](https://github.com/user-attachments/assets/c42bfe87-2fb2-4a15-8a15-5704272d0fdc)
