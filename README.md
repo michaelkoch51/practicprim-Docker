@@ -9,7 +9,7 @@
 ## 1. Скачивание образа
 ```bash
 docker pull hashicorp/terraform:latest
-
+```
 
 
 ![](https://github.com/user-attachments/assets/3dcab6cd-6a44-4f92-84bd-0f7a5136f502)
